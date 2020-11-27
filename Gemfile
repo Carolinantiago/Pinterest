@@ -14,7 +14,7 @@ gem 'haml'
 gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'devise'
-
+gem 'paperclip'
 gem 'jquery-rails'
 
 # Reduces boot times through caching; required in config/boot.rb
